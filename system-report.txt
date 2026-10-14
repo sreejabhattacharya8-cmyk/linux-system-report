@@ -1,34 +1,16 @@
-========================================
-        LINUX SYSTEM REPORT
-========================================
-Generated at : Example output — run the script to replace this file
-
+   LINUX SYSTEM REPORT
 1. HOSTNAME
-----------------------------------------
-your-hostname
-
 2. KERNEL VERSION
-----------------------------------------
 Linux 6.x.x x86_64 GNU/Linux
-
 3. DISK USAGE
-----------------------------------------
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/example     100G   40G   60G  40% /
-
 4. MEMORY USAGE
-----------------------------------------
                total        used        free      shared  buff/cache   available
 Mem:            7.7Gi       2.1Gi       3.0Gi       120Mi       2.6Gi       5.2Gi
 Swap:           2.0Gi          0B       2.0Gi
 
 5. TOP RUNNING PROCESSES (by CPU usage)
-----------------------------------------
     PID COMMAND         %CPU %MEM
    1234 example          5.2  1.4
    2345 another          2.0  0.8
-
-========================================
-This is illustrative sample output, not a report from your computer.
-Run ./system_report.sh to generate an accurate report for your system.
-========================================
